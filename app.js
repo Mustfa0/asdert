@@ -14,7 +14,7 @@ app.get("/",function(req,res){
 })
 
 mailchimp.setConfig({
-    apiKey: "06fd01189f1dcbc91cf76d82ab22d554-us18",
+    apiKey: "9ed9a56a4f925a48d368f746a6403760-us18",
     server: "us18",
   });
 
